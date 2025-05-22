@@ -2,13 +2,11 @@
   padding: 0;
   margin: 0;
 }
-body{
-    display: flex;
-    margin-top: 20vh;
-    justify-content: center;
-    align-items: center;
-
-    
+body {
+  display: flex;
+  margin-top: 20vh;
+  justify-content: center;
+  align-items: center;
 }
 .card {
   border-radius: 25px;
@@ -49,5 +47,4 @@ button {
   color: #fff;
   background-color: black;
   font-size: 20px;
-
 }
